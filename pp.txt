@@ -1,0 +1,18 @@
+Diagnóstico medico de ingreso -> Valoración
+Valoración->Diagnóstico 
+11 patrones de salud. En cada patrón datos antecedentes y actuales.
+-> Se cargan datos en los patrones (examen fisico, entrevista,etc).
+-> Relación entre valoración y diagnósticos.
+Planificación: -> Criterio de evaluación y posibles acciones a seguir.
+Criterios de evaluación: Formas de evaluación si el diagnostico mejora o no (Grupos de acciones)
+
+Aplicación: A través de la valoración elabora un diagnóstico.
+ Diagnostico: El profesional elige los diagnósticos a seguir y la prioridad de estos.
+ Planificacion: Acciones de enfermeria sugeridas por el sistema al profesional y criterios de evaluación del mismo.
+ (Seleccionar las acciones de enfermería, su prioridad y la frecuencia de estas acciones).
+ Plan de cuidados: Lista de tareas por día con botones de modificación y agregar acciones.
+ Ejecución: Tildar las acciones de la lista de tareas.
+ (Observación: Escribir una valoración acerca de las acciones en caso de anomalía).
+ Ejecución: Tildados de realización y observaciones.
+ Informes: El informe final de las acciones, podría ser por turno o diario.
+ Evaluación: Diagnósticos enfermeros seleccionados y trabajados, junto a los criterios de evaluación con medición de los mismos.
